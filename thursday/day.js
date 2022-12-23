@@ -8,6 +8,7 @@ import { Map } from '@react-navigation/native';
  * Make Missing purpose string in Info.plist
  * Like, For Food Service, Parts and Parcel Deliveries in your area. 
  */
+let Work = undefined;
 let Wednesday(_locations) => {
   // Help Serveice Deliveries or drivers in my area find locations.
   myMap('Service');
@@ -17,6 +18,7 @@ let myData = Map.Wednesday;
 let MapWednesday = myMap;
 let myArea(myMap) => {
   return (locations) => {
+    // does it Work...discovery...
     myMap(locations);
     //test data may pile up here as QA continues...
     console.log("test-data");
