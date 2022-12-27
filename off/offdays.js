@@ -1,10 +1,10 @@
-// Off days are Saturday & Sunday 
-// They also may include days that most others do not do routine work or tasks. It could be a culturial resonon why. 
+// Off days are Saturday & Sunday or National Holydays.
+// What should we code here on off days? Lets find out...
+// might be operations...
 import { Friday, offDays } from './friday/day';
 
-offDays(Saturday, Sunday) = new reviewDays;
+holyDay();
+offDays(Saturday, Sunday);
 
-
-
-console.log(reviewDays, Friday);
+console.log(holyDay, Friday);
 export default offDays; 
