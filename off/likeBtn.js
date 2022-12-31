@@ -1,10 +1,17 @@
-
+// Set State on this button flow through. 
+// For now it can be used as a const, but in some other 
 
 const e = React.createElement;
 
-// Display a "Like" <button>
+
 return e(
   'button',
-  { onClick: () => this.setState({ liked: true }) },
-  'like_button_container'
+  {
+    onClick: () => {
+      return this.setState({ liked: true });
+      // What else could this page like with this button? 
+      // Let the developements and implementations find out what they return in the future... 
+    }
+  },
+  'rootContainer', 'root'
 );
