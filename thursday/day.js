@@ -1,28 +1,22 @@
 import { Wednesday } from './days/tuesday/day';
 import { Map } from '@react-navigation/native';
-/**
- * Map data and or non essential variables 
- * that would enhanve the end user geolocations
- * of any app utlity of this position on the globe.
- * ---
- * Make Missing purpose string in Info.plist
- * Like, For Food Service, Parts and Parcel Deliveries in your area. 
+
+/* Daily: "What needs to be done like, Yesterday?"
+ * Map data for end user geolocations on this position on the globe.
+ * What locations are best for geo-coordination among the workers?
  */
-let Work = undefined;
-let Wednesday(_locations) => {
-  // Help Serveice Deliveries or drivers in my area find locations.
-  myMap('Service');
-}
-let myMap = Map;
-let myData = Map.Wednesday;
-let MapWednesday = myMap;
-let myArea(myMap) => {
-  return (locations) => {
-    // does it Work...discovery...
-    myMap(locations);
-    //test data may pile up here as QA continues...
-    console.log("test-data");
-  };
-}
+globe = new Globe('U');
+Map(foodD + foodS);
+Map(partD + partS);
+console.log(done);
+// Has done passed through each day of the week? Monday - Friday? 
+
+Deliveries('');
+myData = Map(); // day | humpDay; 
+foodS = 'food-delivery';
+partS = 'part-parcel-delivery';
+Work(foodService);
+Work(partService);
+
 
 export default Wednesday; 
