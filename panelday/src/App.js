@@ -2,12 +2,13 @@ import logo from './logo.svg';
 import './App.css';
 
 
+
 // what shall we do with these offDays and done... ?
 function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src={ logo } className="App-logo" alt="logo" />
+        <img src={logo} className="App-logo" alt="logo" />
         <p>
           Would you like to see what is done? <code>src/App.js</code> and save to reload.
         </p>
@@ -28,10 +29,13 @@ function App() {
       <body>
         <div className="button">
 
+          <h3>Is it Monday?</h3>
+
           <main>
             <h1>Vista View</h1>
             <p>Take a day off...</p>
             <button>Click</button>
+
           </main>
         </div>
       </body>
