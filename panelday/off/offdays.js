@@ -1,9 +1,6 @@
-// Off days are Saturday & Sunday or National Holydays.
-
-import { offDays, done, yesterday } from './friday/day';
+import { offDays } from './friday/day';
 
 let holyDay = offDays;
 
 
-
-export default holyDay(done, yesterday); 
+export default offDays(holyDay); 

@@ -2,11 +2,11 @@
 // Set State on this button flow through. 
 // For now it can be used as a const, but in some other 
 import { Monday } from '../monday/day';
-import { Tuesday } from '../tuesday/day';
 
-Tuesday()('button', {
-  onClick: () => ((this.setState({ liked: true }))(test, true, Monday)('button', {
-    onClick: () => {
-      return this.setState({ liked: true })
-    }
-  }, 'rootContainer', 'root');
+
+
+// eslint-disable-next-line no-lone-blocks
+{
+  console.log('like-button-root', Monday);
+}
+Monday(); 

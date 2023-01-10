@@ -1,20 +1,14 @@
 import done from './friday/day';
 
-today = Monday;
-yesterday = offDay;
-onDays(today, done);
-issues();
-QAneeds();
-meetings = findOut(issues, QAneeds);
+Today = Monday;
+Yesterday = done(weKnowDis);
+onDays(Today, done);
+issues(weKnowDis);
+QAneeds(weKnowDis);
+weKnowDis = findOut(issues, QAneeds);
 findOut(global(issues), domestic(QAneeds));
 
-console.log(QAneeds, issues, Monday);
+console.log(QAneeds, issues, Monday, weKnowDis);
 
-/**
- * Yesterday = offDay... WeKnowDis.
- * > Flow TODO: Continue QA Testing Needs...
- * > Flow TODO> Curation of Jira backlogs while QA Testing Continues...
- * 
- */
 
-export default Monday; 
+export default Monday(QAneeds); 
