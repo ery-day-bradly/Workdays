@@ -1,9 +1,10 @@
-import { Tuesday } from './days/tuesday/day';
+import { flow } from './days/tuesday/day';
 
 Wednesday = Today && humpDay;
 
-
-/**day is not humpDay if it's not Wednesday. 
+Tuesday(flow)
+humpDay('rootContainer');
+/**Today is not humpDay if it's not Wednesday. 
  * A: QA Testing needs and start more writing on code... would be typical for today.
  * Start working on Issues assignment discussed from Meetings/ huddles... if possible. 
  * > TODO: Continue QA Testing Needs...
@@ -17,4 +18,4 @@ Wednesday = Today && humpDay;
  * > What did you discover?
  */
 
-export default humpDay(Wednesday); 
+export default humpDay(Tuesday(flow)); 
