@@ -29,12 +29,11 @@ function App() {
       <body>
         <div className="button">
 
-          <h3>Is it Monday?</h3>
+          <h3>What's the latest?</h3>
 
           <main>
-            <h1>Vista View</h1>
-            <p>Take a day off...</p>
-            <button>Click</button>
+            <p>This is the vista of the view.</p>
+            <button>React Daily</button>
 
           </main>
         </div>
