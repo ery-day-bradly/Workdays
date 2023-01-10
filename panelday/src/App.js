@@ -8,7 +8,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
+        <img src={ logo } className="App-logo" alt="logo" />
         <p>
           Would you like to see what is done? <code>src/App.js</code> and save to reload.
         </p>
@@ -24,19 +24,19 @@ function App() {
         </div>
 
       </header>
-
-
       <body>
-        <div className="button">
+        <main>
+          <div className="button">
 
-          <h3>What's the latest?</h3>
+            <h3>What's the latest?</h3>
 
-          <main>
-            <p>This is the vista of the view.</p>
-            <button>React Daily</button>
+            <h4>
+              <p>This is the vista of the view.</p>
+              <button>React Daily</button>
 
-          </main>
-        </div>
+            </h4>
+          </div>
+        </main>
       </body>
     </div>
   );
