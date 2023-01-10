@@ -10,16 +10,16 @@ function App() {
       <header className="App-header">
         <img src={ logo } className="App-logo" alt="logo" />
         <p>
-          Would you like to see what is done? <code>src/App.js</code> and save to reload.
+          We need a search field and form <code>src/App.js</code> so we can help
         </p>
         <div className="rootContainer">
           <a
             className="App-link"
-            href="https://reactjs.org"
+            href="https://dev.wavebites.io/auth"
             target="_blank"
             rel="noopener noreferrer"
           >
-            React Daily
+            Welcome to Wavebites
           </a>
         </div>
 

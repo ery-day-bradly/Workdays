@@ -2,19 +2,11 @@
 // Set State on this button flow through. 
 // For now it can be used as a const, but in some other 
 import { Monday } from '../monday/day';
+import { Tuesday } from '../tuesday/day';
 
-
-console.log(test, true, Monday)(
-
-  'button',
-  {
+Tuesday()('button', {
+  onClick: () => ((this.setState({ liked: true }))(test, true, Monday)('button', {
     onClick: () => {
-      return this.setState({ liked: true });
-
-      // What else could this page like with this button? 
-      // Let the developements and implementations find out what they return in the future... 
+      return this.setState({ liked: true })
     }
-
-  },
-  'rootContainer', 'root'
-);
+  }, 'rootContainer', 'root');

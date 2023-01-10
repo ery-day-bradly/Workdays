@@ -1,22 +1,24 @@
 Flow = new flow(feature);
 feature(flowing);
-Today = new today(flow);
-DailyStandup = new meetings(flow);
+Today = new today(DailyStandup);
+DailyStandup = new meetings(Huddles);
 Huddles = new huddles(flow);
-// Huddles = StandUps;
-// Work = Flow; 
-flowing(Monday, Today); {
-  //
-  console.log('feature-flow', TODO);
+
+
+
+flowing(Monday, flow); {
+  // QA Testing 
+
+  console.log('feature-flow', TODO`Q A Testing `, flow);
 }
 /**
  * What is flow? How do we know we are flowing?
+ * A: Huddle is going smoothly. 
  * 
- * A: You are flowing if you are able to quickly start QA Testing needs, or start more writing on code...
- * Start working on Issues assignment discussed from Meetings/ huddles.
- * > Flow TODO: Continue QA Testing Needs...
- * > Flow TODO> Curation of Jira backlogs while QA Testing Continues...
- * Remember, Flow is the feature...
+ * Start working on Issues assignment discussed from huddles.
+ * WDEV QA Full_flow on app_Android
+ * 
+ * 
  */
 
-export default Monday;
+export default Tuesday(flow);
