@@ -2,41 +2,46 @@ import logo from './logo.svg';
 import './App.css';
 
 
-
 // what shall we do with these offDays and done... ?
 function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
+        <img src={ logo } className="App-logo" alt="logo" />
+
         <p>
-          Would you like to see what is done? <code>src/App.js</code> and save to reload.
+          We need a search field and form <code>src/App.js</code> so we can help
         </p>
         <div className="rootContainer">
           <a
             className="App-link"
-            href="https://reactjs.org"
+            href="https://beta.reactjs.org/"
             target="_blank"
             rel="noopener noreferrer"
           >
-            React Daily
+            Welcome
           </a>
         </div>
 
       </header>
-
-
       <body>
-        <div className="button">
 
-          <h3>What's the latest?</h3>
+        <main id="like-button-root">
+          <div className="button">
 
-          <main>
-            <p>This is the vista of the view.</p>
-            <button>React Daily</button>
+            <h3>What's the latest?</h3>
 
-          </main>
-        </div>
+            <h4>
+              <p>This is the vista of the view.</p>
+              <button>Like</button>
+
+            </h4>
+          </div>
+        </main>
+        <script src="https://unpkg.com/react@18/umd/react.development.js" crossOrigin></script>
+        <script src="https://unpkg.com/react-dom@18/umd/react-dom.development.js" crossOrigin></script>
+
+        <script src="../off/likeBtn.js"></script>
       </body>
     </div>
   );

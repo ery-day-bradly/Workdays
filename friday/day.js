@@ -2,21 +2,16 @@ import { done } from './day/off/offdays';
 import { Work, foodService, partService } from './day/Thursday/day';
 
 
-/* Daily: "What needs to be done, like Yester-day?"
+/* Daily: Code
  * Map data for end user geolocations on this position on the globe.
  * What locations are best for geo-coordination among the workers?
  */
 
 /**
- * QA Testing List TODO: 
-Creating (x2) new Restaurant User accounts… ibid
-Create Restaurant https://admin/restaurant;
-Activate the restaurant
+ * QA Testing List TODO: Admid Duties
+Restaurant https://admin/restaurant;
 Login as that restaurant  (Clarity on Chain Owner (super admin))https://devrestaurant./admin/dashboard
-Add fake bank information
 Add menu items
-Ensure restaurant is active
-
  */
 
 
