@@ -1,3 +1,5 @@
 import day from '../../../tuesday/day';
+import { feature, Tuesday } from '../tues';
 
-global(day);
+
+global(feature, day, Tuesday);

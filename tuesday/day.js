@@ -7,18 +7,12 @@ Huddles = new huddles(flow);
 
 
 flowing(Monday, flow); {
-  // QA Testing 
+  flow.Monday.DailyStandup();
 
-  console.log('feature-flow', TODO`Q A Testing `, flow);
+  console.log('feature-flow', feature); // flow is a feature.
 }
 /**
- * What is flow? How do we know we are flowing?
- * A: Huddle is going smoothly. 
- * 
- * Start working on Issues assignment discussed from huddles.
- * WDEV QA Full_flow on app_Android
- * 
- * 
+ * QA Testing? 
  */
 
 export default Tuesday(flow);

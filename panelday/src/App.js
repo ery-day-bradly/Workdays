@@ -7,11 +7,8 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src={ logo } className="App-logo" alt="logo" />
+        <img src={logo} className="App-logo" alt="logo" />
 
-        <p>
-          We need a search field and form <code>src/App.js</code> so we can help
-        </p>
         <div className="rootContainer">
           <a
             className="App-link"
