@@ -1,47 +1,19 @@
-import logo from './logo.svg';
+import React from 'react';
 import './App.css';
 
 
-// what shall we do with these offDays and done... ?
-function App() {
+// This feature has the user make three clicks in a row to see welcome. 
+export default function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-
-        <div className="rootContainer">
-          <a
-            className="App-link"
-            href="https://beta.reactjs.org/"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            Welcome
-          </a>
-        </div>
-
-      </header>
+    <div>
       <body>
-
-        <main id="like-button-root">
-          <div className="button">
-
-            <h3>What's the latest?</h3>
-
-            <h4>
-              <p>This is the vista of the view.</p>
-              <button>Like</button>
-
-            </h4>
-          </div>
-        </main>
+        <button onUploadImage={() => alert('like-button-root')} />
+        <main id="like-button-root">  {(<button onClick={alert("Welcome")}>Welcome</button>)}  </main>
         <script src="https://unpkg.com/react@18/umd/react.development.js" crossOrigin></script>
         <script src="https://unpkg.com/react-dom@18/umd/react-dom.development.js" crossOrigin></script>
-
         <script src="../off/likeBtn.js"></script>
       </body>
     </div>
   );
 }
 
-export default App;
