@@ -2,15 +2,15 @@ import { flow } from './days/tuesday/day';
 
 Wednesday = Today && humpDay;
 
-Tuesday(flow);
+Tuesday(flow); 
 humpDay('rootContainer');
 /** > TODO:
  * 1. Discover any QA Testing needs today.
  * Asked in slack channel: #dev_wavebites 
  * ---
- * Follow up on Questions/ #dev_wavebites
- * 
+ * Follow up on #dev_wavebites
+ * init payouts at auto trig scheduled ...
  * 
  */
 
-export default humpDay(Tuesday(flow)); 
+export default humpDay(Tuesday(flow, paySchedule)); 
