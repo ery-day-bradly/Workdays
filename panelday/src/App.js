@@ -8,8 +8,8 @@ export default function App() {
   return (
 
     <body>
-      <button onUploadImage={() => alert('like-button-root')} />
-      <main id="like-button-root">  {(<button onClick={alert("Welcome")}>Welcome</button>)}
+      <button onUploadImage={ () => alert('like-button-root') } />
+      <main id="like-button-root">  { (<button onClick={ alert("Welcome") }>Welcome</button>) }
 
 
 
@@ -30,4 +30,4 @@ export default function App() {
 //   text: { fontWeight: 'noopener noreferrer' }
 // });
 
-export default App;
+
