@@ -19,7 +19,12 @@ Add menu items
 
 Today = Friday;
 Yesterday = Daily;
-
+/** > Top Three TODO's (Wednesday);
+ * 1. 
+ * 2. 
+ * 3.
+ * >./ that by Friday = payDay; 
+ */
 // What Work got done from Yesterday? 
 offDays = [Saturday, Sunday];
 // Yesterday was not like a normal day;
