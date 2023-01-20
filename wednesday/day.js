@@ -6,7 +6,11 @@ Tuesday(flow);
 humpDay('rootContainer');
 /** > TODO:
  * 1. Discover any QA Testing needs today.
- * 2. Issues assignment discussed from huddles.
+ * Asked in slack channel: #dev_wavebites 
+ * ---
+ * Follow up on Questions/ #dev_wavebites
+ * 
+ * 
  */
 
 export default humpDay(Tuesday(flow)); 

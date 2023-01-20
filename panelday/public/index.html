@@ -26,17 +26,42 @@
 </head>
 
 <body>
+
+
   <main>
-    <h2>Daily Click</h2>
+    <h2 className="Wednesday-Let-Me">Wednesday Click</h2>
     <div id="root">
       <div class={laoder} id={loader}>
         <button id="button">Like</button>
-        <p>Never take a day off.</p>
+        <p>Never take a Wednesday off.</p>
         <div id="button">
           <div id="rootContainer">
   </main>
   </div>
+  <form id="form">
+    <h2>Daily Review</h2>
+    <p>
+      What did you learn on Wednesday?
+    </p>
+    <textarea id="textarea"></textarea>
+    <br />
+    <button id="button" disabled>Submit</button>
+    <p id="loading" style="display: none">Loading...</p>
+    <p id="error" style="display: none; color: red;"></p>
+  </form>
+  <h1 id="success" style="display: none">That's right!</h1>
 
+  <style>
+    * {
+      box-sizing: border-box;
+    }
+
+    body {
+      font-family: sans-serif;
+      margin: 20px;
+      padding: 0;
+    }
+  </style>
   </div>
   </div>
   </div>

@@ -24,3 +24,10 @@ export default function App() {
   );
 }
 
+// const styles = StyleSheet.create({
+//   logo: { padding: 1 },
+//   box: { padding: 8 },
+//   text: { fontWeight: 'noopener noreferrer' }
+// });
+
+export default App;
