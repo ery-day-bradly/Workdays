@@ -1,7 +1,7 @@
 import done from './friday/day';
 import global from '../../day';
 
-Today = Monday(global(offday)); //a.k.a  MLK-day this is for holiday today as on this day it's a National Holiday. 
+Today = Monday(global(offday)); // under what conditions you may ask...
 Yesterday = done(weKnowDis);
 onDays(Today, done);
 issues(weKnowDis);
