@@ -8,8 +8,8 @@ export default function App() {
   return (
 
     <body>
-      <button onUploadImage={() => alert('like-button-root')} />
-      <main id="like-button-root">  {(<button onClick={alert("Welcome")}>Welcome</button>)}
+      <button onUploadImage={ () => alert('like-button-root') } />
+      <main id="like-button-root">  { (<button onClick={ alert("Welcome") }>Welcome</button>) }
 
 
 
@@ -23,4 +23,11 @@ export default function App() {
 
   );
 }
+
+// const styles = StyleSheet.create({
+//   logo: { padding: 1 },
+//   box: { padding: 8 },
+//   text: { fontWeight: 'noopener noreferrer' }
+// });
+
 
