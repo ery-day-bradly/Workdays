@@ -4,7 +4,7 @@ __Description:__
 As a software developer I have personally crafted these documents to work for me and my needs in use cases associated with my Workdays.
 
 
-__Updated-Date:__ January 20, 2023
+__Updated-Date:__ January 24, 2023
 
 __Author:__ Brad Harris
 
@@ -19,17 +19,43 @@ __Source:__ [Tango](https://app.tango.us/app/workflow/1d524e97-6a6e-4220-b8b5-27
 Wednesday could be fluxed out per needs as well for now we go with it here as is.
 ![Step 2 screenshot](https://images.tango.us/workflows/1d524e97-6a6e-4220-b8b5-27ea1fc098b5/steps/90541b97-f656-48bc-b005-6e40775d9234/2217ad3a-8025-4b54-960b-eed30182eea5.png?crop=focalpoint&fit=crop&fp-x=0.5000&fp-y=0.5000&w=1200&blend-align=bottom&blend-mode=normal&blend-x=800&blend64=aHR0cHM6Ly9pbWFnZXMudGFuZ28udXMvc3RhdGljL21hZGUtd2l0aC10YW5nby13YXRlcm1hcmsucG5n)
 
+# [Code Daily ](https://app.tango.us/app/workflow/6723412f-60aa-4ee5-badc-cc1a127ba55d?utm_source=markdown&utm_medium=markdown&utm_campaign=workflow%20export%20links)
 
-### 3. Click on friday
+__Description:__ 
+React-Native Daily Workflow and development.
+
+
+__Date:__ January 24, 2023
+
+__Author:__ Brad Harris
+
+__Source:__ [Tango](https://app.tango.us/app/workflow/6723412f-60aa-4ee5-badc-cc1a127ba55d?utm_source=markdown&utm_medium=markdown&utm_campaign=workflow%20export%20links)
+
+***
+
+### 3. [npm start to Code Daily](http://localhost:3000/)
+[http://localhost:3000/](http://localhost:3000/)
+
+
+### 4. Click on Like
+Wednesday let you...
+![Step 2 screenshot](https://images.tango.us/workflows/6723412f-60aa-4ee5-badc-cc1a127ba55d/steps/ab7618e1-dc0c-4c21-8023-eb7dada4f334/fd57bd42-5920-435f-b055-5b2cff45364d.png?crop=focalpoint&fit=crop&fp-x=0.5000&fp-y=0.5000&w=1200&blend-align=bottom&blend-mode=normal&blend-x=800&blend64=aHR0cHM6Ly9pbWFnZXMudGFuZ28udXMvc3RhdGljL21hZGUtd2l0aC10YW5nby13YXRlcm1hcmsucG5n)
+
+
+***
+_[This Workflow was created with Tango](https://app.tango.us/app/workflow/6723412f-60aa-4ee5-badc-cc1a127ba55d?utm_source=markdown&utm_medium=markdown&utm_campaign=workflow%20export%20links)_
+
+
+### 5. Click on friday
 ![Step 3 screenshot](https://images.tango.us/workflows/1d524e97-6a6e-4220-b8b5-27ea1fc098b5/steps/0af323e3-7945-49d0-a954-c84ad774b01f/44bb82fa-ad0e-4fa2-b132-db259afb2cf6.png?crop=focalpoint&fit=crop&fp-x=0.5000&fp-y=0.5000&w=1200&blend-align=bottom&blend-mode=normal&blend-x=800&blend64=aHR0cHM6Ly9pbWFnZXMudGFuZ28udXMvc3RhdGljL21hZGUtd2l0aC10YW5nby13YXRlcm1hcmsucG5n)
 
 
-### 4. Click on admin
+### 6. Click on admin
 Admin day is Friday and on this day the management files for programming automations will proceed.
 ![Step 4 screenshot](https://images.tango.us/workflows/1d524e97-6a6e-4220-b8b5-27ea1fc098b5/steps/0370dbdd-457a-4bf0-a1a4-680cff20cd3a/f7467b1f-6422-4d73-a822-84680fca4048.png?crop=focalpoint&fit=crop&fp-x=0.5000&fp-y=0.5000&w=1200&blend-align=bottom&blend-mode=normal&blend-x=800&blend64=aHR0cHM6Ly9pbWFnZXMudGFuZ28udXMvc3RhdGljL21hZGUtd2l0aC10YW5nby13YXRlcm1hcmsucG5n)
 
 
-### 5. Friday Dev as admin for these files as per concerning of this day as working so thusly. 
+### 7. Friday Dev as admin for these files as per concerning of this day as working so thusly. 
 Where to dig in if you want to work in developing these files for me and my usages.
 ![Step 5 screenshot](https://images.tango.us/workflows/1d524e97-6a6e-4220-b8b5-27ea1fc098b5/steps/5eee04f8-aee2-4bf7-930f-6646d72d1394/6fa3b927-e780-4270-b1c4-73afc921a634.png?crop=focalpoint&fit=crop&fp-x=0.5000&fp-y=0.5000&w=1200&blend-align=bottom&blend-mode=normal&blend-x=800&blend64=aHR0cHM6Ly9pbWFnZXMudGFuZ28udXMvc3RhdGljL21hZGUtd2l0aC10YW5nby13YXRlcm1hcmsucG5n)
 
