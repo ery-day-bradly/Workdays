@@ -1,14 +1,23 @@
-// See if you like it on Monday
-// Set State on this button flow through. 
-// For now it can be used as a const, but in some other 
+// You like it on Monday
+// Set State onClick  
+// For now it can be used as a const...
 import { Monday } from '../monday/day';
 import { Button } from 'react-native/Libraries/NewAppScreen';
+import React, { useState } from 'react';
 
 
-// eslint-disable-next-line no-lone-blocks
-{
+
+likeBtn() {
   console.log('like-button-root', Monday);
-}
-console.log(Button);
+  // count variable
+  const [count, setCount] = useState(0);
 
-Monday(); 
+  return (
+    <div>
+      <p>You liked {count} times</p>
+      <Button onClick={() => setCount(count + 1)}>
+        Wednesday
+      </Button>
+    </div>
+  );
+}
