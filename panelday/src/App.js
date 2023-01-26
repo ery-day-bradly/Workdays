@@ -8,9 +8,10 @@ export default function App() {
   return (
 
     <body>
-      <button onUploadImage={ () => alert('like-button-root') } />
-      <main id="like-button-root">  { (<button onClick={ alert("Welcome") }>Welcome</button>) }
-
+      <button onUploadImage={() => alert('like-button-root')} />
+      <main id="like-button-root">  {(<button onClick={alert("Welcome")}>Welcome</button>)}
+        <h1>Welcome</h1>
+        <img src="./rolling_react_operations.jpg" alt="lets=roll" />
 
 
 

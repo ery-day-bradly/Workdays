@@ -1,19 +1,19 @@
 <!DOCTYPE html>
 <html lang="en">
 
-<head>
-  <meta charset="utf-8" />
-  <link rel="icon" href="%PUBLIC_URL%/favicon.ico" />
-  <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <meta name="theme-color" content="#000000" />
-  <meta name="description" content="Web site created using create-react-app" />
-  <link rel="apple-touch-icon" href="%PUBLIC_URL%/logo192.png" />
-  <!--
+  <head>
+    <meta charset="utf-8" />
+    <link rel="icon" href="%PUBLIC_URL%/favicon.ico" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="theme-color" content="#000000" />
+    <meta name="description" content="Web site created using create-react-app" />
+    <link rel="apple-touch-icon" href="%PUBLIC_URL%/logo192.png" />
+    <!--
       manifest.json provides metadata used when your web app is installed on a
       user's mobile device or desktop. See https://developers.google.com/web/fundamentals/web-app-manifest/
     -->
-  <link rel="manifest" href="%PUBLIC_URL%/manifest.json" />
-  <!--
+    <link rel="manifest" href="%PUBLIC_URL%/manifest.json" />
+    <!--
       Notice the use of %PUBLIC_URL% in the tags above.
       It will be replaced with the URL of the `public` folder during the build.
       Only files inside the `public` folder can be referenced from the HTML.
@@ -22,59 +22,57 @@
       work correctly both with client-side routing and a non-root public URL.
       Learn how to configure a non-root public URL by running `npm run build`.
     -->
-  <title>Code Daily</title>
-</head>
+    <title>Code Daily</title>
+  </head>
 
-<body>
+  <body>
 
 
-  <main>
-    <h2 className="Wednesday-Let-Me">Wednesday Click</h2>
-    <div id="root">
-      <div class={laoder} id={loader}>
-        <button id="button">Like</button>
-        <p>Never take a Wednesday off.</p>
-        <div id="button">
-          <div id="rootContainer">
-  </main>
-  </div>
-  <form id="form">
-    <h2>Daily Review</h2>
-    <p>
-      What did you learn on Wednesday?
-    </p>
-    <textarea id="textarea"></textarea>
-    <br />
-    <button id="button" disabled>Submit</button>
-    <p id="loading" style="display: none">Loading...</p>
-    <p id="error" style="display: none; color: red;"></p>
-  </form>
-  <h1 id="success" style="display: none">That's right!</h1>
+    <main>
+      <h2 className="Wednesday-Let-Me">React-Native Daily Workflow and development..</h2>
+      <div id="root">
+        <div class={laoder} id={loader}>
+          <button id="button">Development</button>
+          <div id="button">
+            <div id="rootContainer">
+    </main>
+    </div>
+    <form id="form">
+      <p>
+        What did you learn Today?
+      </p>
+      <textarea id="textarea"></textarea>
+      <br />
+      <button id="button" disabled>Submit</button>
+      <p id="loading" style="display: none">Loading...</p>
+      <p id="error" style="display: none; color: red;"></p>
+    </form>
+    <h1 id="success" style="display: none">That's right!</h1>
 
-  <style>
-    * {
-      box-sizing: border-box;
-    }
+    <style>
+      * {
+        box-sizing: border-box;
+      }
 
-    body {
-      font-family: sans-serif;
-      margin: 20px;
-      padding: 0;
-    }
-  </style>
-  </div>
-  </div>
-  </div>
+      body {
+        font-family: sans-serif;
+        margin: 20px;
+        padding: 0;
+      }
+    </style>
+    </div>
+    </div>
+    </div>
 
-  <!-- ... other HTML ... -->
+    <!-- ... other HTML ... -->
 
-  <!-- Load React. -->
-  <!-- Note: when deploying, replace "development.js" with "production.min.js". -->
-  <script src="https://unpkg.com/react@18/umd/react.development.js" crossorigin></script>
-  <script src="https://unpkg.com/react-dom@18/umd/react-dom.development.js" crossorigin></script>
+    <!-- Load React. -->
+    <!-- Note: when deploying, replace "development.js" with "production.min.js". -->
+    <script src="https://unpkg.com/react@18/umd/react.development.js" crossorigin></script>
+    <script src="https://unpkg.com/react-dom@18/umd/react-dom.development.js" crossorigin></script>
 
-  <!-- Load our React component. -->
-  <script src="likeBtn.js"></script>
-</body>
+    <!-- Load our React component. -->
+    <script src="likeBtn.js"></script>
+  </body>
 
 </html>
