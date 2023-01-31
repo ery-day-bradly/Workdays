@@ -13,6 +13,7 @@
       user's mobile device or desktop. See https://developers.google.com/web/fundamentals/web-app-manifest/
     -->
     <link rel="manifest" href="%PUBLIC_URL%/manifest.json" />
+
     <!--
       Notice the use of %PUBLIC_URL% in the tags above.
       It will be replaced with the URL of the `public` folder during the build.
@@ -27,41 +28,23 @@
 
   <body>
 
-
-    <main>
-      <h2 className="Wednesday-Let-Me">React-Native Daily Workflow and development..</h2>
+    <section>
+      <h2 className="Wednesday-Let-Me">Development View</h2>
       <div id="root">
         <div class={laoder} id={loader}>
-          <button id="button">Development</button>
-          <div id="button">
-            <div id="rootContainer">
-    </main>
-    </div>
-    <form id="form">
-      <p>
-        What did you learn Today?
-      </p>
-      <textarea id="textarea"></textarea>
-      <br />
-      <button id="button" disabled>Submit</button>
-      <p id="loading" style="display: none">Loading...</p>
-      <p id="error" style="display: none; color: red;"></p>
-    </form>
-    <h1 id="success" style="display: none">That's right!</h1>
+          <button onClick={count} id="button">Load It</button>
+          <div id="rootContainer">
+    </section>
 
-    <style>
-      * {
-        box-sizing: border-box;
-      }
+    <canvas id="myCanvas" width="300" height="250">
+      <ul>
+        <li><data value="000">Yesterday</li>
+        <li><data value="111">Today</li>
+        <li><data value="222">Tomorrow</li>
+      </ul>
+    </canvas>
 
-      body {
-        font-family: sans-serif;
-        margin: 20px;
-        padding: 0;
-      }
-    </style>
-    </div>
-    </div>
+
     </div>
 
     <!-- ... other HTML ... -->
