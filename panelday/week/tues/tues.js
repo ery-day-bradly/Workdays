@@ -13,5 +13,9 @@ Tuesday({
 
 Tuesday(feature.flow);
 
+
 // flow is a future in each feature... feature the flow.
 // how is it flowing?
+
+global(feature, day, Tuesday);
+

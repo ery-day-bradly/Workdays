@@ -6,7 +6,9 @@ let ctx = canvas.getContext("like-button-root");
 ctx("myWelcome");
 // This feature has the user make three clicks in a row to see welcome. 
 export default function App() {
+
   const [count, setCount] = useState(0);
+
 
   return (
 

@@ -3,11 +3,14 @@
  */
 import { humpDay } from '../../Wednesday/humpDay';
 
-String(humpDay, "Wednesday-Let-Me"); // for Friday("Wednesday-Let-You", getPaid(payDay))... (#payouts);
+String(humpDay, "Wednesday-Let-Me");
+String("Wednesday-Let-You");
 
-/** > Top Three TODO's (Wednesday);
- * 1. paySchedge
- * 2. init trigger
+
+
+/** > Top Three TODO's
+ * 1. pay
+ * 2. init trigger to pay
  * 3. find out more "Wednesday-Let-Me";
  * >./ that by Friday = payDay; 
  */
