@@ -2,11 +2,15 @@
 // Set State on this button flow through. 
 // For now it can be used as a const, but in some other 
 import { Monday } from '../monday/day';
+import { Button } from 'react-native/Libraries/NewAppScreen';
 
+// On Monday the alert Button... test
+Monday();
 
-
-// eslint-disable-next-line no-lone-blocks
-{
-  console.log('like-button-root', Monday);
+function sayHello() {
+  alert('hello');
+  //
 }
-Monday(); 
+sayHello(Monday);
+
+alert(Button);

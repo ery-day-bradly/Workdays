@@ -1,5 +1,7 @@
+import { FullWindowOverlay } from 'react-native-screens';
 import day from '../../../tuesday/day';
 import { feature, Tuesday } from '../tues';
+
 
 Tuesday({
   render() {
@@ -11,4 +13,5 @@ Tuesday({
 
 Tuesday(feature.flow);
 
-global(feature, day, Tuesday);
+// flow is a future in each feature... feature the flow.
+// how is it flowing?

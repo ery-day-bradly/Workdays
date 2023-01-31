@@ -8,7 +8,7 @@ import { Work, foodService, partService } from './day/Thursday/day';
  */
 
 /**
- * QA Testing List TODO: Admid Duties
+ * QA Testing List TODO: Admin Duties
 Restaurant https://admin/restaurant;
 Login as that restaurant  (Clarity on Chain Owner (super admin))https://devrestaurant./admin/dashboard
 Add menu items
@@ -19,10 +19,17 @@ Add menu items
 
 Today = Friday;
 Yesterday = Daily;
-
+/** > Top Three TODO's (Wednesday);
+ * 1. 
+ * 2. 
+ * 3.
+ * >./ that by Friday = payDay; 
+ */
 // What Work got done from Yesterday? 
 offDays = [Saturday, Sunday];
 // Yesterday was not like a normal day;
+Work(QAT); // For new users, profile, facilities, and features in dashboard. 
+
 done(Friday);
 // 
 Work(foodService);

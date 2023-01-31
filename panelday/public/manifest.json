@@ -21,5 +21,20 @@
   "start_url": ".",
   "display": "standalone",
   "theme_color": "#000000",
-  "background_color": "#ffffff"
+  "background_color": "#ffffff",
+  "tags": "items",
+  "fields": "title",
+  "file": "index",
+  "fileName": "quwowooybuqbl6ntboz3.jpg",
+  "contentType": "image/jpg",
+  "details": {
+    "image": {
+      "width": "600",
+      "height": "446"
+    },
+    "start_url": ".//index.html",
+    "validate": "validateDocOfTheYear",
+    "author": "Author",
+    "required": false
+  }
 }
