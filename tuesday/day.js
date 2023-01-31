@@ -13,6 +13,9 @@ flowing(Monday, flow); {
 }
 /**
  * QA Testing? 
+ * Typically this might not be known until after 10:00 AM
+ * If known from Yesterday - then QA those issues firts before new QA issues that may be ready at 10:00 AM Est.
+ * 
  */
 
 export default Tuesday(flow);
