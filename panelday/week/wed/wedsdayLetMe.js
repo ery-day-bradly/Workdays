@@ -5,10 +5,10 @@ import { humpDay } from '../../Wednesday/humpDay';
 
 String(humpDay, "Wednesday-Let-Me"); // for Friday("Wednesday-Let-You", getPaid(payDay))... (#payouts);
 
-/** > Top Three TODO's (Wednesday);
- * 1. paySchedge
- * 2. init trigger
- * 3. find out more "Wednesday-Let-Me";
- * >./ that by Friday = payDay; 
+/** > Top Three TODO's (QAT_Regression);
+ * 1. paySchedge(acceptable) // b/c it was accepted by rest(Owner(branch-manager));
+ * 2. init(loader) // b/c it was accepted by local(Driver(delivery-driver));
+ * 3. loader("Wednesday-Let-Me");
+ * 4. weekly(acceptable) = payDay; 
  */
 
