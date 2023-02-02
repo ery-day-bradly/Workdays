@@ -6,10 +6,13 @@ import { Map } from '@react-navigation/native';
  * Map data for end user geolocations on these position on the globe.
  * What locations are best for geo-coordination among the workers?
  */
-let payOut(flow);
+(flow.Map.humpDay('Wednesday-Let-Me'));
 
 globe = new Globe('U');
-Map(foodD + foodS) = payOut(Map);
+Map(foodD + foodS) == payOut(Map.humpDay('Wednesday-Let-You')) {
+  // 
+  console.log('Wednesday-Let-Me');
+}
 
 console.log(done, flow);
 // Has done passed through each day of the week? Monday - Friday?
