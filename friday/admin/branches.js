@@ -1,5 +1,16 @@
-/* for: food-menues
-TODO: 
+import { uProfile, day } from './dashboard';
 
- * customers-needs: food-orders, order-history, customer-service & Support after the sale.
+/* Owner-User
+ * admin-panel: users-profile
+ * dashboard: branches
+ * food: items
+ * //
+ * End-User: 
+ * 1. food-orders, 
+ * 2. order-history, 
+ * 3. customer-service, 
+ * 4. support-features
  */
+uProfile();
+
+export default day;

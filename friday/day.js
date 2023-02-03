@@ -19,10 +19,10 @@ Add menu items
 
 Today = Friday;
 Yesterday = Daily;
-/** > Top Three TODO's (Wednesday);
- * 1. 
- * 2. 
- * 3.
+/** > Top Three TODO's (Wednesday); // #dev_wavebites; 
+ * 1. QAT Admin features
+ * 2. QAT Resturant features
+ * 3. Qat Driver App features
  * >./ that by Friday = payDay; 
  */
 // What Work got done from Yesterday? 

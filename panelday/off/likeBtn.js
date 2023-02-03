@@ -4,13 +4,17 @@
 import { Monday } from '../monday/day';
 import { Button } from 'react-native/Libraries/NewAppScreen';
 
+let isTrue = Boolean(1); // true
+let isFalse = Boolean(0); // false
+
+
 // On Monday the alert Button... test
 Monday();
 
-function sayHello() {
+function sayHello(isTrue) {
   alert('hello');
-  //
+  if (isFalse(0));
 }
-sayHello(Monday);
+sayHello(isTrue);
 
 alert(Button);
