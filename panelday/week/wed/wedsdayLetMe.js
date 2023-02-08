@@ -15,3 +15,5 @@ String("Wednesday-Let-You");
  * >./ that by Friday = payDay; 
  */
 
+String("Wednesday-Let-You", ("").humpDay); // empty string for now...
+// these may be thought of as conditionals in a broad stroke but may be more spacific in time. 
