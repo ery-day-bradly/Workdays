@@ -6,6 +6,11 @@ import { Map } from '@react-navigation/native';
  * Map data for end user geolocations on these position on the globe.
  * What locations are best for geo-coordination among the workers?
  */
+/*
+ * We need to make Button functional onClick & count object returning count clicks... 
+ * but here for this button it would be ultimately more useful if we had it navigate back to the day file of the actual day file needed to be focussed on in context to flow... 
+ * I will also add this in the admin file for Thursday... Today... 
+ */
 
 
 export default payOut(flow);
