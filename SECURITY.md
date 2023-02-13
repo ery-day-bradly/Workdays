@@ -1,8 +1,8 @@
 # Security Policy
+
 ## Reporting a Vulnerability
 
- - Updated Today 2023-18-01
-
+- Updated Today 2023-18-01
 
 | Version | Supported          |
 | ------- | ------------------ |
@@ -12,4 +12,3 @@
 | < 1.2   | :x:                |
 
 ## Reporting a Vulnerability
-
