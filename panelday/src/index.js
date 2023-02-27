@@ -4,12 +4,8 @@ import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
 
-// What does the following function do?
-// String();
 
-
-// const root = ReactDOM.createRoot(document.getElementById('root').data);
-// console.log(String | Uint8Array);
+console.log(String | Uint8Array);
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 
