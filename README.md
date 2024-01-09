@@ -1,59 +1,55 @@
-# [My Dev Workflow](https://app.tango.us/app/workflow/1d524e97-6a6e-4220-b8b5-27ea1fc098b5?utm_source=markdown&utm_medium=markdown&utm_campaign=workflow%20export%20links)
+# Daily and Weekly Routine with Martial Arts Integration
 
 __Description:__
-As a software developer I have personally crafted these documents to work for me and my needs in use cases associated with my Workdays.
-
+This document outlines my daily and weekly routine, which combines work, study, and a disciplined practice of martial arts. It's tailored to foster both physical and mental well-being, blending productivity with self-care.
 
 __Updated-Date:__ January 24, 2023
 
-
 __Author:__ Brad Harris
 
-__Source:__ [Tango](https://app.tango.us/app/workflow/1d524e97-6a6e-4220-b8b5-27ea1fc098b5?utm_source=markdown&utm_medium=markdown&utm_campaign=workflow%20export%20links)
+***
+
+## Daily Routine
+
+### Morning Routine:
+1. Wake up at 5:00 A.M.
+2. Perform morning exercises including Siu Nim Tao form and stretching.
+3. Clean up for work.
+
+### Work/Study Hours:
+1. Start work or studying at 9:00 A.M.
+2. Take breaks every 90 minutes to stretch and refresh (10:30 A.M., 12:00 P.M.).
+
+### Afternoon:
+1. Continue work or study tasks post 12:30 P.M.
+2. Lunch break.
+3. Resume work in progress at 2:30 P.M.
+
+### End of Day:
+1. Review tasks completed and plan for the next day.
+2. Engage in self-care activities like reading or meditation.
+3. Dinner at 6:30 P.M.
+
+### Night Routine:
+1. Wind down with Zen Wing Chun Kung Fu Forms and Stretches at 8:00 P.M.
+2. Prepare for bed at 10:00 P.M.
+3. Sleep by 10:30 P.M.
+
+_Note: Customize the times and activities based on personal preferences and schedule._
 
 ***
 
-### 1. [Go to HarrisMBrad/Workdays: My Daily and weekly dev flow](https://github.com/HarrisMBrad/Workdays)
+## Weekly Routine Integration
 
-### 2. Wednesday act like the flux-capacitor
+### Wednesday: Flex-Capacitor Day
+- Wednesday serves as a flexible day, adaptable as needed for different tasks and activities.
 
-Wednesday could be fluxed out per needs as well for now we go with it here as is.
-![Step 2 screenshot](https://images.tango.us/workflows/1d524e97-6a6e-4220-b8b5-27ea1fc098b5/steps/90541b97-f656-48bc-b005-6e40775d9234/2217ad3a-8025-4b54-960b-eed30182eea5.png?crop=focalpoint&fit=crop&fp-x=0.5000&fp-y=0.5000&w=1200&blend-align=bottom&blend-mode=normal&blend-x=800&blend64=aHR0cHM6Ly9pbWFnZXMudGFuZ28udXMvc3RhdGljL21hZGUtd2l0aC10YW5nby13YXRlcm1hcmsucG5n)
-
-# [Code Daily ](https://app.tango.us/app/workflow/6723412f-60aa-4ee5-badc-cc1a127ba55d?utm_source=markdown&utm_medium=markdown&utm_campaign=workflow%20export%20links)
-
-__Description:__ 
-React-Native Daily Workflow and development.
-
-__Source:__ [Tango](https://app.tango.us/app/workflow/6723412f-60aa-4ee5-badc-cc1a127ba55d?utm_source=markdown&utm_medium=markdown&utm_campaign=workflow%20export%20links)
+### Friday: Admin Day
+- Dedicated to administrative tasks and managing programming automations.
 
 ***
 
-### 3. [npm start to Code Daily](http://localhost:3000/)
-[http://localhost:3000/](http://localhost:3000/)
+## Integrating Martial Arts into Daily Life
+The incorporation of martial arts, specifically Wing Chun practices, into the daily routine is aimed at enhancing focus, discipline, and physical fitness. This holistic approach aligns with the philosophy of balancing work, study, and personal well-being.
 
-
-### 4. Click on Like
-Wednesday let you...
-![Step 2 screenshot](https://images.tango.us/workflows/6723412f-60aa-4ee5-badc-cc1a127ba55d/steps/ab7618e1-dc0c-4c21-8023-eb7dada4f334/fd57bd42-5920-435f-b055-5b2cff45364d.png?crop=focalpoint&fit=crop&fp-x=0.5000&fp-y=0.5000&w=1200&blend-align=bottom&blend-mode=normal&blend-x=800&blend64=aHR0cHM6Ly9pbWFnZXMudGFuZ28udXMvc3RhdGljL21hZGUtd2l0aC10YW5nby13YXRlcm1hcmsucG5n)
-
-***
-_[This Workflow was created with Tango](https://app.tango.us/app/workflow/6723412f-60aa-4ee5-badc-cc1a127ba55d?utm_source=markdown&utm_medium=markdown&utm_campaign=workflow%20export%20links)_
-
-
-![Step 3 screenshot](https://images.tango.us/workflows/1d524e97-6a6e-4220-b8b5-27ea1fc098b5/steps/0af323e3-7945-49d0-a954-c84ad774b01f/44bb82fa-ad0e-4fa2-b132-db259afb2cf6.png?crop=focalpoint&fit=crop&fp-x=0.5000&fp-y=0.5000&w=1200&blend-align=bottom&blend-mode=normal&blend-x=800&blend64=aHR0cHM6Ly9pbWFnZXMudGFuZ28udXMvc3RhdGljL21hZGUtd2l0aC10YW5nby13YXRlcm1hcmsucG5n)
-
-
-### 5. Click on admin
-
-Admin day is Friday and on this day the management files for programming automations will proceed.
-![Step 4 screenshot](https://images.tango.us/workflows/1d524e97-6a6e-4220-b8b5-27ea1fc098b5/steps/0370dbdd-457a-4bf0-a1a4-680cff20cd3a/f7467b1f-6422-4d73-a822-84680fca4048.png?crop=focalpoint&fit=crop&fp-x=0.5000&fp-y=0.5000&w=1200&blend-align=bottom&blend-mode=normal&blend-x=800&blend64=aHR0cHM6Ly9pbWFnZXMudGFuZ28udXMvc3RhdGljL21hZGUtd2l0aC10YW5nby13YXRlcm1hcmsucG5n)
-
-### 6. Friday Dev as admin for these files as per concerning of this day as working so thusly
-
-### 7. Dev as admin for these files as per concerning of this day as working so thusly. 
-Where to dig in if you want to work in developing these files for me and my usages.
-![Step 5 screenshot](https://images.tango.us/workflows/1d524e97-6a6e-4220-b8b5-27ea1fc098b5/steps/5eee04f8-aee2-4bf7-930f-6646d72d1394/6fa3b927-e780-4270-b1c4-73afc921a634.png?crop=focalpoint&fit=crop&fp-x=0.5000&fp-y=0.5000&w=1200&blend-align=bottom&blend-mode=normal&blend-x=800&blend64=aHR0cHM6Ly9pbWFnZXMudGFuZ28udXMvc3RhdGljL21hZGUtd2l0aC10YW5nby13YXRlcm1hcmsucG5n)
-
-***
-_[This Workflow was created with Tango](https://app.tango.us/app/workflow/1d524e97-6a6e-4220-b8b5-27ea1fc098b5?utm_source=markdown&utm_medium=markdown&utm_campaign=workflow%20export%20links)_
+_Note: This routine is personalized for my specific needs and preferences. It's a blend of professional responsibilities and personal development practices._
